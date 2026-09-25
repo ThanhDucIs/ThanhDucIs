@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ThanhDucIs
-- 👀 I’m interested in CS50
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on CS
-- 📫 How to reach me gmail.com
+- 👋 Hi, I’m @ThanhDucIs (Duc Nguyen).
+- ECSE 281 introductory and CASE sophomore.
+- 📫 How to reach me nguyenbill.hcm@gmail.com
 
 <!---
 ThanhDucIs/ThanhDucIs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
